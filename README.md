@@ -79,7 +79,7 @@ After completing this project, you will understand:
 - Financial Data Reporting
 
 ## Author
-Yadu Munchun
+MUNCHUN YADAV
 
 ## Tools Used
 - MySQL
